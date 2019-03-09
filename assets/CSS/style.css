@@ -1,15 +1,14 @@
 .container {
     color:gray;
-    background-color: white;
-    margin-top:40px;
-    width: 100%;
+    
+
+    
 }
 
 .navbar-brand {
  background-color:#4aaaa5;
  -webkit-text-fill-color:white;
- padding: 20px;
-
+ padding: 10px;
 }
 
 h1 {
