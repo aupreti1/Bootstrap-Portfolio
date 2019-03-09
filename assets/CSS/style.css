@@ -1,31 +1,83 @@
-.container {
-    color:gray;
-    
-
-    
-}
-
 .navbar-brand {
- background-color:#4aaaa5;
- -webkit-text-fill-color:white;
- padding: 10px;
+    background-color: #4aaaa5;
+    padding: 20px;
+    border: 30px;
+    border-color: #4aaaa5;
+    -webkit-text-fill-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h1 {
- color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    -webkit-text-fill-color: #4aaaa5;
+    padding: 40px 0 0 0;
 }
 
-p{
-    float:left;
+.container {
+]
+    border: 20px;
+    -webkit-text-fill-color: rgb(127, 127, 127);
+    padding:0;
+}
+
+.form-group {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    -webkit-text-fill-color: rgb(127, 127, 127);
+    
+}
+
+p {
+    -webkit-text-fill-color: rgb(127, 127, 127);
+}
+
+h2 {
+    -webkit-text-fill-color: white;
+    background-color: 
 }
 
 footer {
-    position: fixed;
-    background: #666666;
+    position:fixed;
     left: 0;
-    clear: both;
-    bottom:0;
+    bottom: 0;
     width: 100%;
     border-top: 5px solid #4aaaa5;
-    padding: 20px;
-  }
+    padding: 25px;
+    clear: both;
+    background: #666666;
+}
+
+.portfolio {
+   width: 100%;
+    margin: auto;
+    background-color: white;
+}
+
+.card {
+    margin: 10px;
+}
+
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: grey;
+}
+
+.card-body {
+background-color: white;
+width:;
+align-content:auto;
+margin-top: 30px;
+}
+
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-collapse {
+        position: absolute;
+        right: 83px;
+    }
+}
+
+.card-img2{
+    height: 200px;
+    width: 200px; 
+    padding: 10px;
+}
+
