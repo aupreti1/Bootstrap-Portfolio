@@ -1,0 +1,32 @@
+.container {
+    color:gray;
+    background-color: white;
+    margin-top:40px;
+    width: 100%;
+}
+
+.navbar-brand {
+ background-color:#4aaaa5;
+ -webkit-text-fill-color:white;
+ padding: 20px;
+
+}
+
+h1 {
+ color: #4aaaa5;
+}
+
+p{
+    float:left;
+}
+
+footer {
+    position: fixed;
+    background: #666666;
+    left: 0;
+    clear: both;
+    bottom:0;
+    width: 100%;
+    border-top: 5px solid #4aaaa5;
+    padding: 20px;
+  }
