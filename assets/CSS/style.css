@@ -26,13 +26,21 @@ h1 {
     
 }
 
-p {
-    -webkit-text-fill-color: rgb(127, 127, 127);
+img {
+    float: left;
+    margin-right: 10px;
 }
+
+p {
+    -webkit-text-fill-color: rgb(127, 127, 127);   
+}
+
 
 h2 {
     -webkit-text-fill-color: white;
-    background-color: 
+    background-color: #4aaaa5;
+    width:300px;
+    text-align: center;
 }
 
 footer {
@@ -80,3 +88,6 @@ margin-top: 30px;
     width: 300px; 
 }
 
+.card-img-overlay {
+    left:-19px;
+}
